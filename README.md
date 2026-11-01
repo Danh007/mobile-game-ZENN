@@ -1,10 +1,11 @@
-# [Game name]
+# ZENN
 
-**Team:** [Name 1] · [Name 2] · [Name 3]
+**Creator:** Denis Beigel
 **Course:** Mobile Game Development, Shenkar
 
 ## The game in one sentence
-[What does the player do, and why do they come back tomorrow?]
+The player controls a physics sphere through an obstacle course filled with puzzles.
+Players come back for faster completion times on levels, cosmetics that are both applied to the levels themself and the ball they control, and exploring the physics movement of the game.
 
 ## How to open and build
 1. Open the project in Unity 6 LTS (the exact version is on Moodle).
