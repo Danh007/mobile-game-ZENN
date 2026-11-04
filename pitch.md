@@ -1,4 +1,4 @@
-**# Pitch: ZENN
+**# Pitch: ZENN**
 
 ## Core loop
 Players control a physics sphere with a single joystick (and perhaps some swipe gestures if there is additional development time for new mechanics to make the game even more "sticky") while trying their best to get it through an obstacle course without falling off the level one checkpoint at a time.
