@@ -24,8 +24,9 @@ Who: Yuval
 
 ---
 ## 2026-11-3 — A choice of game type
+```
 Options: Any card game / Hord Survivel / Balancing act
 Chose: Balancing act was chosen — this due to both curiocity to explore physics based movement, and an undertanding that physicality in video games is an addictive element, even in mobile games...
 AI: Did not consult AI...  
 Who: Denis Beigel
-
+```
